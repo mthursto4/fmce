@@ -1,0 +1,32 @@
+
+
+
+/* MARGARET - REDO THIS */
+
+.navigation ul {
+	list-style: none;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	border-collapse: collapse;
+}
+
+.navigation li {
+	border: 1px solid black;
+	display: table-cell;
+}
+
+.navigation a {
+	color: black;
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.navigation a:hover {
+	color: white;
+	background-color: #333333;
+}
+
